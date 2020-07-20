@@ -4,7 +4,7 @@
 
 > Keep calm and coding.
 
-🇨🇳 China Qingdao・🕹Full Stack Developer
+🇨🇳 China Qingdao・🕹 Full Stack Developer
 
 https://ikookblog.com
 
