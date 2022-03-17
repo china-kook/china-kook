@@ -1,4 +1,8 @@
+<!--/
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=china-kook&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+-->
+
+[![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=china-kook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hello 👋
 
